@@ -79,7 +79,5 @@ For any questions or inquiries, feel free to reach out to me at ${data.email}.
 
 `;
 }
-//^Build out content of readme on line 16
-module.exports = generateMarkdown;
 
-// choices: ["APACHE", "MIT", "BSD", "GNU", ""],
+module.exports = generateMarkdown;
