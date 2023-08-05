@@ -11,9 +11,10 @@ const questions = [
     name: "title",
   },
   {
-    type: "input",
-    message: "What is the necessary license type?",
+    type: "list",
+    message: "What is the necessary license type?\n Bottom If None",
     name: "license",
+    choices: ["Apache", "MIT", "BSD", "GNU", ""],
   },
   {
     type: "input",
@@ -70,5 +71,4 @@ function init() {
 // Function call to initialize app
 init();
 
-// WHEN I choose a license for my application from a list of options
 // THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
