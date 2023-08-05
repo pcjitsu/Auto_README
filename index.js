@@ -40,6 +40,16 @@ const questions = [
     message: "explain how to test this app",
     name: "tests",
   },
+  {
+    type: "input",
+    message: "What is your Repo Username?",
+    name: "repo",
+  },
+  {
+    type: "input",
+    message: "What is your email",
+    name: "email",
+  },
 ];
 
 // TODO: Create a function to write README file
