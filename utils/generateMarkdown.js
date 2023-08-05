@@ -38,6 +38,10 @@ ${data.tests}
 
 ${renderLicenseSection(data.license)}
 
+##Questions
+For Questions go to my Repo at [https://github.com/${data.repo}/]
+
+
 ## Contact
 For any questions or inquiries, feel free to reach out to me at ${data.email}.
 
