@@ -7,8 +7,8 @@ const generateMarkdown = require("./utils/generateMarkdown");
 const questions = [
   {
     type: "input",
-    message: "What is your user name?",
-    name: "username",
+    message: "What is the name of your project?",
+    name: "title",
   },
   {
     type: "password",
@@ -39,3 +39,5 @@ function init() {
 
 // Function call to initialize app
 init();
+
+//Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
