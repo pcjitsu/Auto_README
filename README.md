@@ -10,15 +10,12 @@ Download appropraite files from github repository and utilize NMP to ensure you 
 
 ## Usage
 
-Input information into the hour block to make sure you stay up to date.
-Once information is enter, remember to hit the save button.
-** REMEMBER **
-This keeps track for the DAY, make sure you check the web app before 5PM to see the green, red and grey highlights
-to see whats coming up in the rest of the day!
+Go to the REPO found here
+https://github.com/pcjitsu/Auto_README
 
-Go to WebPage found here
+DEMO: https://drive.google.com/file/d/1-sIdXNfqacvHiVo3sDiux11dWr6pf9x-/view
 
-https://pcjitsu.github.io/Calender-Application/
+Download all appropriate files and run from the commandline
 
 ## Credits
 
@@ -35,4 +32,4 @@ MIT License
 
 ## Tests
 
-Check util folder to see if README has been updated
+Check until folder to see if README has been updated
